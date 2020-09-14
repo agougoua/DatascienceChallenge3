@@ -1,2 +1,2 @@
 # DatascienceChallenge3
-Data science Challenge
+Academic Data science Challenge
